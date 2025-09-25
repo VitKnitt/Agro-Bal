@@ -8,7 +8,6 @@
     "skipLibCheck": true,
 
     "esModuleInterop": true,
-    "types": ["vite/client"],
 
     /* Bundler mode */
     "moduleResolution": "bundler",
